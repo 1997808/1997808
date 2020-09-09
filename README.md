@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working for ZeroTech
+- 🌱 I’m currently learning ReactJS, SQL
+- 📫 How to reach me: Phone
+- ⚡ Fun fact: i play chess
 <!--
 **1997808/1997808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
