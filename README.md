@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working for ZeroTech
-- 🌱 I’m currently learning ReactJS, SQL
+- 🔭 I’m currently working for 
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: Phone
 - ⚡ Fun fact: i play chess
 <!--
